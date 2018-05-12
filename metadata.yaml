@@ -1,0 +1,31 @@
+_repo: John-Brown--An-Address-at-the-14th-Anniversary-of-Storer-College_31839
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Douglass, Frederick
+    aliases:
+    - Baly, Frederick Augustus Washington
+    - Bailey, Frederick Augustus Washington
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '34510'
+    url: http://www.gutenberg.org/2009/agents/34510
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Douglass
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Brown, John, 1800-1859'
+title: 'John Brown: An Address at the 14th Anniversary of Storer College'
+url: http://www.gutenberg.org/ebooks/31839
